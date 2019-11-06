@@ -62,3 +62,4 @@ print(friend_food)
 #   print("丽丽下次还要吃"+fruit.title()+".\n")
 # print("水果真好吃") # 没有缩进的代码只执行一次
 print('提交测试乱码')
+print('lililio')
