@@ -45,7 +45,8 @@ my_food[0]=1
 print(my_food)
 print(friend_food)
 
-
+print('提交测试')
+print('丽丽成功提交代码到github')
 
 
 
@@ -61,5 +62,3 @@ print(friend_food)
 #   print(fruit.title()+"，真好吃")
 #   print("丽丽下次还要吃"+fruit.title()+".\n")
 # print("水果真好吃") # 没有缩进的代码只执行一次
-print('提交测试乱码')
-print('lililio')
